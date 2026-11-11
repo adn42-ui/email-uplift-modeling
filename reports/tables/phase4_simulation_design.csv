@@ -1,0 +1,2 @@
+n_kept,treated_share,mean_history_emailed,mean_history_control,e_hat_min,e_hat_max,true_p_min,true_p_max,share_clipped_low,share_clipped_high
+21380.75,0.5012567931769235,326.5274096784804,157.1299361989465,0.17789682978140064,0.940708540531646,0.2,0.8,0.14653456070081747,0.08073923125570936

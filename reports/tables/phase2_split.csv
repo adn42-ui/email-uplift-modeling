@@ -1,0 +1,5 @@
+split,arm,n,visitors,buyers,mean_spend
+train,control,14914,1559,85,0.6335993026686335
+train,women's email,14971,2240,132,1.0160203059247879
+test,control,6392,703,37,0.6975641426783479
+test,women's email,6416,998,57,1.2199610349127183

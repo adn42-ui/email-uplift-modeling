@@ -1,0 +1,9 @@
+# Versions the results in reports/ were produced with (Python 3.13).
+pandas==3.1.1
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+scikit-uplift==0.5.1   # dataset loader + Qini / uplift metrics
+econml==0.17.0         # causal forest and meta-learners (Phase 2)

@@ -1,0 +1,21 @@
+# Environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Downloaded dataset (fetched on first run by scikit-uplift)
+data/
+
+# Regenerated, not committed.
+# Out-of-fold scores: python -m src.phase4_crossfit
+cache/
+# Test-set scores: python -m src.phase2_uplift
+reports/tables/phase2_test_predictions.csv
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

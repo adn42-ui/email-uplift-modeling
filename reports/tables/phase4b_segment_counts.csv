@@ -1,0 +1,10 @@
+purchase_segment,segment,n,visitors,buyers,mean_spend
+Men's only,Mens E-Mail,9558,1615,110,1.3781617493199414
+Men's only,No E-Mail,9638,962,53,0.6954264370201286
+Men's only,Womens E-Mail,9622,1067,59,0.9737809187279152
+Women's only,Mens E-Mail,9568,1592,104,1.106294941471572
+Women's only,No E-Mail,9519,912,49,0.4905641348881185
+Women's only,Womens E-Mail,9647,1638,99,1.122212086659065
+Both,Mens E-Mail,2181,687,53,3.005130674002751
+Both,No E-Mail,2149,388,20,1.1801442531409958
+Both,Womens E-Mail,2118,533,31,1.342025495750708

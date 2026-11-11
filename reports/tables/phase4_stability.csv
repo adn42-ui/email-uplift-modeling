@@ -1,0 +1,4 @@
+comparison,spearman_mean,spearman_min,spearman_max
+"Causal forest: same customer, different repeats",0.9092732627651584,0.9008332087128721,0.9180780829237811
+"X-learner: same customer, different repeats",0.8628350750746501,0.8533382293429738,0.873102367813851
+"Causal forest vs. X-learner, same repeat",0.8967822327829079,0.8885862007553765,0.9090113372418547

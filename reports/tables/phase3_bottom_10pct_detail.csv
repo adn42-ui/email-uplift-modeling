@@ -1,0 +1,7 @@
+scores,left_out_share,arm,n,visitors,buyers,total_spend,mean_spend,largest_purchase,share_mens_only
+uplift_visit__Causal forest,0.09999999999999998,women's email,640,79,2,123.2,0.1925,88.0,1.0
+uplift_visit__Causal forest,0.09999999999999998,control,641,56,6,825.3,1.287519500780031,248.04,1.0
+uplift_visit__X-learner,0.09999999999999998,women's email,654,94,3,135.43,0.20707951070336392,50.68,1.0
+uplift_visit__X-learner,0.09999999999999998,control,627,71,6,1172.47,1.8699681020733652,444.33,1.0
+uplift_spend__Causal forest,0.09999999999999998,women's email,634,110,4,733.87,1.1575236593059937,304.66,0.5331230283911672
+uplift_spend__Causal forest,0.09999999999999998,control,647,83,7,980.94,1.5161360123647605,358.29,0.49304482225656876
