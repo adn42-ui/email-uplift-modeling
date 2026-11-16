@@ -166,28 +166,8 @@ Using the men's-email arm and three pre-specified segments (no model):
 
 ## 6. Recommendation
 
-**TODO (author to write).** Findings to draw on:
+I recommend sending the men’s email to everyone as the default. It clearly beats the women’s email on visits and conversions, and it is likely better on profit too. However, the profit advantage should be confirmed with fresh data: only about 300 customers bought anything, so the profit estimates are uncertain, and the data is from 2008, so customer behaviour may have changed.
 
-- Both emails raise visits, conversions and spend on average; randomization
-  holds.
-- For the women's email, no targeting policy beats emailing everyone. The
-  one that appeared to (top 90%, +$38) did not replicate (−$9 [−$28, +$7]).
-- Uplift models rank visit response well but mostly rediscover one rule
-  (men's-only buyers respond little to the women's email); their edge over
-  that rule is $5–$9 per 1,000.
-- Heterogeneity in *spend* response is not established anywhere in this
-  data.
-- The men's email to everyone has the highest estimated profit of the
-  pre-specified policies ($181 per 1,000 vs. $77 for the women's email);
-  the gap is suggestive on spend (p = 0.031), strong on visits and
-  conversions.
-- The men's email's advantage may be about that creative, not the
-  department.
-- Emailing is clearly profitable at $0.01 per email; at $0.10 the women's
-  email is unproven, while the men's email clears zero in eight of nine
-  margin × cost scenarios.
-- All dollar figures depend on an assumed margin and cost, and on a two-week
-  window.
 
 ## 7. Caveats and next steps
 
